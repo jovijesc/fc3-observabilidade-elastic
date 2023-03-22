@@ -3,4 +3,6 @@ app/.idea/*
 app/.docker/pgdata
 app/*.pyc
 app/__pycache__
-elasticsearch_data/
+elasticsearch_data/*
+
+!elasticsearch_data/.gitkeep 
